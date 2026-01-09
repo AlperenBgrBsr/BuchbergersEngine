@@ -24,8 +24,8 @@ A C++ implementation of **Buchberger's Algorithm** for computing the reduced Gr√
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/buchbergers-algorithm.git](https://github.com/YOUR_USERNAME/buchbergers-algorithm.git)
-    cd buchbergers-algorithm
+    git clone [https://github.com/AlperenBgrBsr/BuchbergersEngine.git](https://github.com/AlperenBgrBsr/BuchbergersEngine.git)
+    cd BuchbergersEngine
     ```
 
 2.  **Compile:**
